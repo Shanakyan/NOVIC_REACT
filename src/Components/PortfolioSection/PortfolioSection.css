@@ -1,0 +1,23 @@
+
+.portfolio {
+  background-color: #F6F6F6;
+    padding-top: 113px;
+  }
+  .portfolio h2 {
+    margin-bottom: 42px;
+  }
+  .portfolio img {
+    margin-bottom: 42px;
+    transition: all 0.5s ease-out;
+  }
+  .portfolio img:hover {
+    scale: 1.05;
+  }
+  .portfolio p {
+    margin: auto;
+    margin-bottom: 99px;
+    text-align: center;
+  }
+  .grey {
+    background-color: #F6F6F6;
+  }

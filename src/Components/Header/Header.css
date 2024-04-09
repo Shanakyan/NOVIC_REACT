@@ -1,0 +1,41 @@
+
+  
+  .close {
+    display: none;
+  }
+  
+  hr {
+    margin-bottom: 40px;
+    color: #828282;
+  }
+  
+  .burger {
+    display: none;
+    background-color: transparent;
+    border: none;
+  }
+  .burger:hover {
+    cursor: pointer;
+  }
+  
+  .maininfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 30px;
+  }
+  .maininfo p {
+    width: 156px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .mainphoto {
+    margin-bottom: 104px;
+    height: 387px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 43%;
+  }

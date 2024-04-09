@@ -1,0 +1,16 @@
+.portfolio_link {
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+    transition: all 0.3s ease-out;
+  }
+  .portfolio_link:hover {
+    border-bottom: 1px solid transparent;
+  }
+  .portfolio img {
+    margin-bottom: 42px;
+    transition: all 0.5s ease-out;
+  }
+  .portfolio img:hover {
+    scale: 1.05;
+  }
+  
