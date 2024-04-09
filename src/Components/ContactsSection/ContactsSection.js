@@ -1,5 +1,6 @@
 import './ContactsSection.css'
 import SocialSection from './SocialIcon/SocialIcon'
+import SwitchBtn from '../SwitchBtn/SwitchBtn'
 import inIcon from './SocialIcon/in.svg'
 import instagramIcon from './SocialIcon/instagram.svg'
 import behinceIcon from './SocialIcon/behance.svg'
@@ -9,7 +10,9 @@ export default function ContactsSection(){
         <section id="contacts" className="contacts">
         <h2>Contacts</h2>
         <p>Want to know more or just chat? <br/> You are welcome!</p>
-        <button>Send message</button>
+        <SwitchBtn title="Send Message"/>  
+        
+        {/* <button>Send message</button> */}
         <div className="social">
          <SocialSection src={inIcon} alt="LinkedIn"/>
          <SocialSection src={instagramIcon} alt="instagram"/>

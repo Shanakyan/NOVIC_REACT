@@ -23,4 +23,11 @@ header {
   max-width: 940px;
   width: 100%;
 }
+.wrapp_btns{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  gap: 20px;
+}
 
