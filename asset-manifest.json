@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NOVIC_REACT/static/css/main.cbdc2a24.css",
-    "main.js": "/NOVIC_REACT/static/js/main.2a126896.js",
+    "main.css": "/NOVIC_REACT/static/css/main.54b5fd25.css",
+    "main.js": "/NOVIC_REACT/static/js/main.c4f44e65.js",
     "static/js/453.746adfad.chunk.js": "/NOVIC_REACT/static/js/453.746adfad.chunk.js",
     "static/media/main.jpg": "/NOVIC_REACT/static/media/main.25e4c100f070b89a1717.jpg",
     "static/media/in.svg": "/NOVIC_REACT/static/media/in.e8b46334c4b0b0ecb0c7d407b7802abd.svg",
@@ -15,12 +15,12 @@
     "static/media/instagram.svg": "/NOVIC_REACT/static/media/instagram.5fc9d738e4096f5ad905fd8ecf8fc316.svg",
     "static/media/star-black.svg": "/NOVIC_REACT/static/media/star-black.eb22366a15ccabb5a5417deba5dcbfc2.svg",
     "index.html": "/NOVIC_REACT/index.html",
-    "main.cbdc2a24.css.map": "/NOVIC_REACT/static/css/main.cbdc2a24.css.map",
-    "main.2a126896.js.map": "/NOVIC_REACT/static/js/main.2a126896.js.map",
+    "main.54b5fd25.css.map": "/NOVIC_REACT/static/css/main.54b5fd25.css.map",
+    "main.c4f44e65.js.map": "/NOVIC_REACT/static/js/main.c4f44e65.js.map",
     "453.746adfad.chunk.js.map": "/NOVIC_REACT/static/js/453.746adfad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbdc2a24.css",
-    "static/js/main.2a126896.js"
+    "static/css/main.54b5fd25.css",
+    "static/js/main.c4f44e65.js"
   ]
 }
